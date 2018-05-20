@@ -1,0 +1,13 @@
+E:\TRANHOANGBUU\397\Service\DTU\DTUService\DTU.Service\obj\Debug\DTU.Service.csprojResolveAssemblyReference.cache
+E:\TRANHOANGBUU\397\Service\DTU\DTUService\DTU.Service\bin\Debug\DTU.Service.dll
+E:\TRANHOANGBUU\397\Service\DTU\DTUService\DTU.Service\bin\Debug\DTU.Service.pdb
+E:\TRANHOANGBUU\397\Service\DTU\DTUService\DTU.Service\bin\Debug\DTU.Common.dll
+E:\TRANHOANGBUU\397\Service\DTU\DTUService\DTU.Service\bin\Debug\DTU.Data.dll
+E:\TRANHOANGBUU\397\Service\DTU\DTUService\DTU.Service\bin\Debug\DTU.Model.dll
+E:\TRANHOANGBUU\397\Service\DTU\DTUService\DTU.Service\bin\Debug\DTU.Common.pdb
+E:\TRANHOANGBUU\397\Service\DTU\DTUService\DTU.Service\bin\Debug\DTU.Data.pdb
+E:\TRANHOANGBUU\397\Service\DTU\DTUService\DTU.Service\bin\Debug\DTU.Model.pdb
+E:\TRANHOANGBUU\397\Service\DTU\DTUService\DTU.Service\obj\Debug\DTU.Service.dll
+E:\TRANHOANGBUU\397\Service\DTU\DTUService\DTU.Service\obj\Debug\DTU.Service.pdb
+E:\TRANHOANGBUU\397\Service\DTU\DTUService\DTU.Service\bin\Debug\EntityFramework.dll
+E:\TRANHOANGBUU\397\Service\DTU\DTUService\DTU.Service\bin\Debug\EntityFramework.xml

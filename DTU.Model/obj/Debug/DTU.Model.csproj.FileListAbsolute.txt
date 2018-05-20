@@ -1,0 +1,10 @@
+E:\TRANHOANGBUU\397\Service\DTU\DTUService\DTU.Model\bin\Debug\DTU.Model.dll.config
+E:\TRANHOANGBUU\397\Service\DTU\DTUService\DTU.Model\bin\Debug\DTU.Model.dll
+E:\TRANHOANGBUU\397\Service\DTU\DTUService\DTU.Model\bin\Debug\DTU.Model.pdb
+E:\TRANHOANGBUU\397\Service\DTU\DTUService\DTU.Model\bin\Debug\EntityFramework.dll
+E:\TRANHOANGBUU\397\Service\DTU\DTUService\DTU.Model\bin\Debug\EntityFramework.SqlServer.dll
+E:\TRANHOANGBUU\397\Service\DTU\DTUService\DTU.Model\bin\Debug\EntityFramework.xml
+E:\TRANHOANGBUU\397\Service\DTU\DTUService\DTU.Model\bin\Debug\EntityFramework.SqlServer.xml
+E:\TRANHOANGBUU\397\Service\DTU\DTUService\DTU.Model\obj\Debug\DTU.Model.dll
+E:\TRANHOANGBUU\397\Service\DTU\DTUService\DTU.Model\obj\Debug\DTU.Model.pdb
+E:\TRANHOANGBUU\397\Service\DTU\DTUService\DTU.Model\obj\Debug\DTU.Model.csprojResolveAssemblyReference.cache

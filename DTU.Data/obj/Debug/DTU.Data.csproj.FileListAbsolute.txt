@@ -1,0 +1,17 @@
+E:\TRANHOANGBUU\397\Service\DTU\DTUService\DTU.Data\bin\Debug\DTU.Data.dll.config
+E:\TRANHOANGBUU\397\Service\DTU\DTUService\DTU.Data\bin\Debug\DTU.Data.dll
+E:\TRANHOANGBUU\397\Service\DTU\DTUService\DTU.Data\bin\Debug\DTU.Data.pdb
+E:\TRANHOANGBUU\397\Service\DTU\DTUService\DTU.Data\bin\Debug\DTU.Common.dll
+E:\TRANHOANGBUU\397\Service\DTU\DTUService\DTU.Data\bin\Debug\EntityFramework.dll
+E:\TRANHOANGBUU\397\Service\DTU\DTUService\DTU.Data\bin\Debug\EntityFramework.SqlServer.dll
+E:\TRANHOANGBUU\397\Service\DTU\DTUService\DTU.Data\bin\Debug\DTU.Common.pdb
+E:\TRANHOANGBUU\397\Service\DTU\DTUService\DTU.Data\bin\Debug\EntityFramework.xml
+E:\TRANHOANGBUU\397\Service\DTU\DTUService\DTU.Data\bin\Debug\EntityFramework.SqlServer.xml
+E:\TRANHOANGBUU\397\Service\DTU\DTUService\DTU.Data\obj\Debug\DTU.Data.csprojResolveAssemblyReference.cache
+E:\TRANHOANGBUU\397\Service\DTU\DTUService\DTU.Data\obj\Debug\DTU.Data.dll
+E:\TRANHOANGBUU\397\Service\DTU\DTUService\DTU.Data\obj\Debug\DTU.Data.pdb
+E:\TRANHOANGBUU\397\Service\DTU\DTUService\DTU.Data\bin\Debug\DTU.Model.dll
+E:\TRANHOANGBUU\397\Service\DTU\DTUService\DTU.Data\bin\Debug\DTU.Model.pdb
+E:\TRANHOANGBUU\397\Service\DTU\DTUService\DTU.Data\obj\Debug\DTU.Data.Migrations.CSDL.resources
+E:\TRANHOANGBUU\397\Service\DTU\DTUService\DTU.Data\obj\Debug\DTU.Data.csproj.GenerateResource.Cache
+E:\TRANHOANGBUU\397\Service\DTU\DTUService\DTU.Data\obj\Debug\DTU.Data.Migrations.RemoveDateFormat.resources

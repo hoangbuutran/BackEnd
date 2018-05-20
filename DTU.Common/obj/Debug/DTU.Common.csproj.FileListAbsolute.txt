@@ -1,0 +1,9 @@
+E:\TRANHOANGBUU\397\Service\DTU\DTUService\DTU.Common\bin\Debug\DTU.Common.dll
+E:\TRANHOANGBUU\397\Service\DTU\DTUService\DTU.Common\bin\Debug\DTU.Common.pdb
+E:\TRANHOANGBUU\397\Service\DTU\DTUService\DTU.Common\obj\Debug\DTU.Common.dll
+E:\TRANHOANGBUU\397\Service\DTU\DTUService\DTU.Common\obj\Debug\DTU.Common.pdb
+E:\TRANHOANGBUU\397\Service\DTU\DTUService\DTU.Common\bin\Debug\Microsoft.Owin.dll
+E:\TRANHOANGBUU\397\Service\DTU\DTUService\DTU.Common\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+E:\TRANHOANGBUU\397\Service\DTU\DTUService\DTU.Common\bin\Debug\Owin.dll
+E:\TRANHOANGBUU\397\Service\DTU\DTUService\DTU.Common\bin\Debug\Microsoft.Owin.xml
+E:\TRANHOANGBUU\397\Service\DTU\DTUService\DTU.Common\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
